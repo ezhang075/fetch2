@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fetch2</folder>
+	<filename>back_fisheye_image_0169.jpg</filename>
+	<path>/home/cscicart/fetch2/back_fisheye_image_0169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dogtoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>326</ymin>
+			<xmax>381</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
